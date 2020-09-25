@@ -1,6 +1,4 @@
 from locust import HttpUser, between, task
-import string
-import random
 
 PD_SERVER = 'https://pd-pr83.sms.dev.unifonic.com/'
 
